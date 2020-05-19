@@ -1,1 +1,2 @@
-# Portfolio-Website
+
+I am Priya S, a final year electrical engineering undergraduate at Shiv Nadar University. I am interested in Multi-agent Deep reinforcement learning strategies and their application to real world systems. I have experience working on Multi-agent Deep Deterministic policy gradients for traffic signal control and Deep Q Networks for autonomous UAV Navigation. I hope to learn more and keep this space active!
